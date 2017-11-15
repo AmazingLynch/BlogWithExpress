@@ -7,10 +7,10 @@
 2. 将此项目clone到本地
 
 3. 启动mongodb数据库服务
-```bash
+```
 mongod --dbpath=[path]
 需要在mongodb 的安装目录下的bin目录下执行
-path时数据存储位置
+path为数据存储位置
 ``` 
 
 4. 安装项目依赖
